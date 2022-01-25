@@ -1,7 +1,7 @@
-
-  body {
-    background-color: #F4DFBA;
-  }
+body {
+  background-color: #F4DFBA;
+  font-size: 14px;
+}
 
 hr {
   border-style: none;
@@ -12,26 +12,9 @@ hr {
 }
 
 h1 {
-color: #876445;
-
+  color: #876445;
 }
 
 h3 {
-color: #876445;
-
-}
-
-ul {
-font-size: 14px;
-
-}
-
-li {
-
-  font-size: 12px;
-}
-
-table {
-
-  font-size: 12px
+  color: #876445;
 }
