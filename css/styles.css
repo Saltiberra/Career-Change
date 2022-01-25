@@ -1,6 +1,6 @@
 
   body {
-    background-color: #BDD2B6;
+    background-color: #D3DEDC;
   }
 
 hr {
@@ -9,4 +9,14 @@ hr {
   border-color: #798777;
   border-width: 5px;
   width: 10%;
+}
+
+h1 {
+color: #7C99AC;
+
+}
+
+h3 {
+color: #7C99AC;
+  
 }
