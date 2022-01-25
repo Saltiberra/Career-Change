@@ -22,11 +22,16 @@ color: #876445;
 }
 
 ul {
-font-size: 16px;
+font-size: 14px;
 
 }
 
 li {
 
-  font-size: 14px;
+  font-size: 12px;
+}
+
+table {
+
+  font-size: 12px
 }
