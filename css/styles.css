@@ -1,3 +1,5 @@
+/********************* TAG SELECTORS *****************/
+
 body {
   background-color: #F4DFBA;
 }
@@ -14,6 +16,32 @@ h1 {
   color: #876445;
 }
 
+
 h3 {
   color: #876445;
+}
+
+
+/********************* SUDO SELECTORS *****************/
+
+h3:hover {
+  color: #CA965C;
+}
+
+
+img:hover {
+  background-color: gold;
+}
+
+/********************* CLASS SELECTORS *****************/
+.form1 {
+  color: #876445;
+}
+
+.form2 {
+  color: #362222;
+}
+
+.estrelas:hover {
+  background-color: #876445;
 }
