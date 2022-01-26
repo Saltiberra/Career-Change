@@ -17,11 +17,18 @@ img:hover {
 .bacon {
 
   background-color: green;
+position: relative;
+  left: 30px;
+
 }
 
 .broccoli {
 
   background-color: red;
+  position: relative;
+    left: 40px;
+    top: 40px;
+
 
 }
 
