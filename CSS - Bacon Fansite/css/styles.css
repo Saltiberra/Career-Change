@@ -29,26 +29,10 @@ position: relative;
     left: 40px;
     top: 40px;
 
-
 }
 
 .circular {
   border-radius: 100%;
-
-}
-
-
-
-.red {
-  height: 100px;
-  width: 100px;
-  backgound-color: red;
-}
-
-.blue {
-  height: 100px;
-  width: 100px;
-  backgound-color: blue;
 }
 
 /********************* ID SELECTORS *****************/
